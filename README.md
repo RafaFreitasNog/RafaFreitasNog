@@ -23,6 +23,6 @@ Programming and Development, whether it is Front or Back-End focused for Mobile 
         - Back-End
 
 - 💞️ I’m looking to collaborate on ...
-- 
+
 - 📫 How to reach me rafa.fritas@hotmail.com
 
