@@ -2,8 +2,8 @@
 I graduated from São Francisco Xavier High School in the end of 2018 and in 2020 joined Mackenzie Presbyterian University to a Bachelor in Information Systems, 
 where currently I'm in the 5th semester. I've also graduated from Red Balloon english school.
 
-- 👀 I’m interested in learning new languages and technologies in lots of IT areas. But currently I'm specially devoted to learning more about
-Programming and Development, whether it is Front or Back-End focused for Mobile or Web Apps and Sites.
+- 👀 I’m interested in learning new languages and technologies in lots of IT areas. But currently, I'm specially focused in learning more about
+Programming and Development, whether it is Front-end or Back-End for Mobile or Web Apps and Sites.
 
 - 🌱 I’m currently learning
 
@@ -14,7 +14,8 @@ Programming and Development, whether it is Front or Back-End focused for Mobile 
         - Front-End
             - HTML
             - CSS
-            - JavaScript
+            - JavaScript (ES6+)
+            - React
         - Back-End
 
 - 💞️ I’m looking to collaborate on ...
