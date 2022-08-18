@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raphael Freitas Nogueira de Souza ( @RafaFreitasNog ), a 22 year-old brazilian born in August 2000, São Paulo, SP, where I still live.
+- 👋 Hi, I’m Raphael Freitas Nogueira de Souza ( @RafaFreitasNog ), a 22 year-old brazilian born in August 18th, 2000, São Paulo, SP, where I still live.
 I graduated from São Francisco Xavier High School in the end of 2018 and in 2020 joined Mackenzie Presbyterian University to a Bachelor in Information Systems, where currently I'm in the 5th semester. I've also graduated from Red Balloon english school.
 
 - 👀 I’m interested in learning new languages and technologies in lots of IT areas. But currently, I'm specially focused in learning more about Web ad Mobile Development, mainly Front-end but also interested in the Back-End.
