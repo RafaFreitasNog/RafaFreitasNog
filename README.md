@@ -16,6 +16,10 @@ I graduated from São Francisco Xavier High School in the end of 2018 and in 202
             - JavaScript (ES6+)
             - React
         - Back-End
+            - JavaScript (ES6+)
+            - NodeJS
+                - Express
+                - Axios
 
 - 💞️ I’m looking for an opportunity to land a job, but mainly an internship, in the Front-end Development area.
 
