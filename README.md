@@ -23,12 +23,12 @@ I graduated from São Francisco Xavier High School in the end of 2018 and in 202
             - MongoDB
                 - Mongoose
 
-- 💞️ I’m looking for an opportunity to land a job, but mainly an internship, in the Front-end Development area.
+- 💞️ I’m looking for an opportunity to land a job, but mainly an internship, in the Front-end Web Development area.
 
 - Besides tech I also love: <br/>
     - Music: listening and playing instruments, specially the electric guitar. <br/>
     - Culinary: coocking various types of food, barbecueing. <br/>
-    - Sports: I like watching MMA, football and basketball. I practised Jiu-Jitsu, Muay Thai and Football, and I also like going to the gym.
+    - Sports: I like watching MMA, soccer and basketball. I practised Jiu-Jitsu, Muay Thai and Football, and I also like going to the gym.
 
 - 📫 How to reach me raphaelfreitas18.dev@gmail.com
 
