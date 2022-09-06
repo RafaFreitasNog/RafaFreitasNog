@@ -20,8 +20,10 @@ I graduated from São Francisco Xavier High School in the end of 2018 and in 202
             - NodeJS
                 - Express
                 - Axios
-            - MongoDB
-                - Mongoose
+                - Mongoose (MongoDB)
+        - DataBase
+            - SQL Language
+            - MongoDB (noSQL)
 
 - 💞️ I’m looking for an opportunity to land a job, but mainly an internship, in the Front-end Web Development area.
 
