@@ -32,5 +32,5 @@ I graduated from São Francisco Xavier High School in the end of 2018 and in 202
     - Culinary: coocking various types of food, barbecueing. <br/>
     - Sports: I like watching MMA, soccer and basketball. I practised Jiu-Jitsu, Muay Thai and Football, and I also like going to the gym.
 
-- 📫 How to reach me raphaelfreitas18.dev@gmail.com
+- 📫 Contact me at: raphaelfreitas18.dev@gmail.com
 
