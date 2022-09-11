@@ -21,6 +21,8 @@ I graduated from São Francisco Xavier High School in the end of 2018 and in 202
                 - Express
                 - Axios
                 - Mongoose (MongoDB)
+                - BCrypt (Encryption)
+                - JWT (JSON Web Token)
         - DataBase
             - SQL Language
             - MongoDB (noSQL)
