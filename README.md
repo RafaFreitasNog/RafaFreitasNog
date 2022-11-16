@@ -15,16 +15,14 @@ I graduated from São Francisco Xavier High School in the end of 2018 and in 202
             - CSS
             - JavaScript (ES6+)
             - React
+            - Next.js
         - Back-End
             - JavaScript (ES6+)
             - NodeJS
                 - Express
-                - Axios
                 - Mongoose (MongoDB)
-                - BCrypt (Encryption)
-                - JWT (JSON Web Token)
         - DataBase
-            - SQL Language
+            - SQL (Oracle and mySQL)
             - MongoDB (noSQL)
 
 - 💞️ I’m looking for an opportunity to land a job, but mainly an internship, in the Front-end Web Development area.
